@@ -1,7 +1,7 @@
 **Jewellery Heaven**
 Online jewellery shop website.
 
-**Live demo**: https://krutika12-pawar.github.io/dev-jewellery-heaven/
+**Live demo**: https://krutika12-pawar.github.io/dev-jewelleryheaven/
 
 **Features**
 Home page with collections
